@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# macOS
+.DS_Store
+.theme_preference
+
+# IDE
+.vscode/
+.idea/
+
+# Server files (temporary)
+server_files/*
+!server_files/.gitkeep
